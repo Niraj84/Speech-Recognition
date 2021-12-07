@@ -1,0 +1,5 @@
+# install module
+
+1 pip install speechrecognition
+2 pip install pipwin
+3 pipwin install pyaudio
