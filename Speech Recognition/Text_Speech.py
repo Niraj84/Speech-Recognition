@@ -1,7 +1,7 @@
 import speech_recognition as sr
 r=sr.Recognizer()
 
-with sr.AudioFile('test.wav') as source:
+with sr.AudioFile('Speech Recognition/test.wav') as source:
     print("Listening to Audio")
     
     #capture the audio
